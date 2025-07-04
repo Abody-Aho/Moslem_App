@@ -13,7 +13,6 @@
 
 📷 Screenshots (Coming Soon)
 
-> You can add screenshots of your app interface here.
 
 🚀 Getting Started
 
