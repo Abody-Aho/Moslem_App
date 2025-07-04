@@ -1,16 +1,23 @@
-# moselem
+ 📱 Adhkar Al-Muslim
 
-A new Flutter project.
+"Adhkar Al-Muslim" is a simple and beautiful Flutter app that helps Muslims remember Allah by reading daily adhkar (remembrances) and using an integrated electronic tasbih.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+- 🌅 Morning Adhkar (أذكار الصباح)
+- 🌙 Evening Adhkar (أذكار المساء)
+- 📿 Electronic Tasbih with counter
+- 🔠 Adjustable font size for comfortable reading
+- 🔢 Counter for repeated adhkar
+- 💾 Local storage to save user progress
 
-A few resources to get you started if this is your first Flutter project:
+📷 Screenshots (Coming Soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> You can add screenshots of your app interface here.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Getting Started
+
+To run the project locally:
+```bash
+flutter pub get
+flutter run
